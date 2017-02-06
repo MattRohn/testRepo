@@ -1,0 +1,734 @@
+NEW
+
+Login...Connected!
+
+object(stdClass)#5 (48) { ["increment_id"]=> string(9) "100000006"
+["store_id"]=> string(1) "1" ["created_at"]=> string(19) "2016-07-07
+19:35:21" ["updated_at"]=> string(19) "2016-07-07 19:35:21"
+["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6) "2.3200"
+["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=> string(6)
+"0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=> string(7)
+"40.9200" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"40.9200" ["billing_address_id"]=> string(2) "11"
+["shipping_address_id"]=> string(2) "12" ["store_to_base_rate"]=>
+string(6) "1.0000" ["store_to_order_rate"]=> string(6) "1.0000"
+["base_to_global_rate"]=> string(6) "1.0000" ["base_to_order_rate"]=>
+string(6) "1.0000" ["weight"]=> string(6) "1.5000" ["store_name"]=>
+string(50) "Main Website Main Website Store Default Store View"
+["remote_ip"]=> string(12) "76.9.127.130" ["status"]=> string(7)
+"pending" ["state"]=> string(3) "new" ["global_currency_code"]=>
+string(3) "USD" ["base_currency_code"]=> string(3) "USD"
+["store_currency_code"]=> string(3) "USD" ["order_currency_code"]=>
+string(3) "USD" ["shipping_method"]=> string(25)
+"freeshipping_freeshipping" ["shipping_description"]=> string(27) "Free
+Delivery for TGNA Only" ["customer_email"]=> string(21)
+"mrohnkohl@qmimail.com" ["customer_firstname"]=> string(4) "Matt"
+["customer_lastname"]=> string(8) "Rohnkohl" ["quote_id"]=> string(1)
+"8" ["is_virtual"]=> string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"6" ["shipping_address"]=> object(stdClass)#6 (12) { ["parent_id"]=>
+string(1) "6" ["address_type"]=> string(8) "shipping" ["firstname"]=>
+string(4) "Matt" ["lastname"]=> string(8) "Rohnkohl" ["street"]=>
+string(20) "1645 East Avis Drive" ["city"]=> string(15) "Madison
+Heights" ["region"]=> string(8) "Michigan" ["postcode"]=> string(5)
+"48071" ["country_id"]=> string(2) "US" ["telephone"]=> string(8)
+"555-1212" ["region_id"]=> string(2) "33" ["address_id"]=> string(2)
+"12" } ["billing_address"]=> object(stdClass)#7 (12) { ["parent_id"]=>
+string(1) "6" ["address_type"]=> string(7) "billing" ["firstname"]=>
+string(4) "Matt" ["lastname"]=> string(8) "Rohnkohl" ["street"]=>
+string(20) "1645 East Avis Drive" ["city"]=> string(15) "Madison
+Heights" ["region"]=> string(8) "Michigan" ["postcode"]=> string(5)
+"48071" ["country_id"]=> string(2) "US" ["telephone"]=> string(8)
+"555-1212" ["region_id"]=> string(2) "33" ["address_id"]=> string(2)
+"11" } ["items"]=> object(stdClass)#8 (1) { ["complexObjectArray"]=>
+array(3) { [0]=> object(stdClass)#9 (51) { ["item_id"]=> string(2) "16"
+["order_id"]=> string(1) "6" ["quote_item_id"]=> string(2) "19"
+["created_at"]=> string(19) "2016-07-07 19:35:21" ["updated_at"]=>
+string(19) "2016-07-07 19:35:21" ["product_id"]=> string(2) "15"
+["product_type"]=> string(6) "simple" ["product_options"]=> string(327)
+"a:1:{s:15:"info_buyRequest";a:6:{s:4:"uenc";s:136:"aHR0cDovL3RveW9kYWdvc2VpLXN0b3JlLnFtaWdyb3VwaW5jLmNvbS9idXNpbmVzcy1jYXJkcy9idXNpbmVzcy1jYXJkLWVuZ2xpc2gtamFwYW5lc2UuaHRtbD9fX19TSUQ9VQ,,";s:7:"product";s:2:"15";s:8:"form_key";s:16:"a15GvPYvqZF5VOg2";s:15:"related_product";s:0:"";s:3:"qty";s:6:"1.0000";s:6:"isAjax";s:1:"1";}}"
+["weight"]=> string(6) "1.0000" ["is_virtual"]=> string(1) "0" ["sku"]=>
+string(6) "TGEJBC" ["name"]=> string(34) "Business Card (English &
+Japanese)" ["free_shipping"]=> string(1) "0" ["is_qty_decimal"]=>
+string(1) "0" ["no_discount"]=> string(1) "0" ["qty_canceled"]=>
+string(6) "0.0000" ["qty_invoiced"]=> string(6) "0.0000"
+["qty_ordered"]=> string(6) "1.0000" ["qty_refunded"]=> string(6)
+"0.0000" ["qty_shipped"]=> string(6) "0.0000" ["price"]=> string(7)
+"30.0000" ["base_price"]=> string(7) "30.0000" ["original_price"]=>
+string(7) "30.0000" ["base_original_price"]=> string(7) "30.0000"
+["tax_percent"]=> string(6) "6.0000" ["tax_amount"]=> string(6) "1.8000"
+["base_tax_amount"]=> string(6) "1.8000" ["tax_invoiced"]=> string(6)
+"0.0000" ["base_tax_invoiced"]=> string(6) "0.0000"
+["discount_percent"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["discount_invoiced"]=> string(6) "0.0000" ["base_discount_invoiced"]=>
+string(6) "0.0000" ["amount_refunded"]=> string(6) "0.0000"
+["base_amount_refunded"]=> string(6) "0.0000" ["row_total"]=> string(7)
+"30.0000" ["base_row_total"]=> string(7) "30.0000" ["row_invoiced"]=>
+string(6) "0.0000" ["base_row_invoiced"]=> string(6) "0.0000"
+["row_weight"]=> string(6) "1.0000" ["gift_message_available"]=>
+string(1) "0" ["weee_tax_applied"]=> string(6) "a:0:{}"
+["weee_tax_applied_amount"]=> string(6) "0.0000"
+["weee_tax_applied_row_amount"]=> string(6) "0.0000"
+["base_weee_tax_applied_amount"]=> string(6) "0.0000"
+["base_weee_tax_applied_row_amount"]=> string(6) "0.0000"
+["weee_tax_disposition"]=> string(6) "0.0000"
+["weee_tax_row_disposition"]=> string(6) "0.0000"
+["base_weee_tax_disposition"]=> string(6) "0.0000"
+["base_weee_tax_row_disposition"]=> string(6) "0.0000" } [1]=>
+object(stdClass)#10 (51) { ["item_id"]=> string(2) "17" ["order_id"]=>
+string(1) "6" ["quote_item_id"]=> string(2) "20" ["created_at"]=>
+string(19) "2016-07-07 19:35:21" ["updated_at"]=> string(19) "2016-07-07
+19:35:21" ["product_id"]=> string(2) "16" ["product_type"]=> string(12)
+"configurable" ["product_options"]=> string(588)
+"a:6:{s:15:"info_buyRequest";a:7:{s:4:"uenc";s:116:"aHR0cDovL3RveW9kYWdvc2VpLXN0b3JlLnFtaWdyb3VwaW5jLmNvbS9hcHBhcmVsL2NhcHMvYnJ1c2hlZC10d2lsbC1jYXAuaHRtbD9fX19TSUQ9VQ,,";s:7:"product";s:2:"16";s:8:"form_key";s:16:"rrvXScswncM5PMsQ";s:15:"related_product";s:0:"";s:15:"super_attribute";a:1:{i:146;s:2:"32";}s:3:"qty";s:6:"1.0000";s:6:"isAjax";s:1:"1";}s:15:"attributes_info";a:1:{i:0;a:2:{s:5:"label";s:11:"ColorSwatch";s:5:"value";s:5:"Royal";}}s:11:"simple_name";s:23:"Brushed
+Twill
+Cap-Royal";s:10:"simple_sku";s:10:"TG82-Royal";s:20:"product_calculations";i:1;s:13:"shipment_type";i:0;}"
+["weight"]=> string(6) "0.5000" ["is_virtual"]=> string(1) "0" ["sku"]=>
+string(10) "TG82-Royal" ["name"]=> string(17) "Brushed Twill Cap"
+["free_shipping"]=> string(1) "0" ["is_qty_decimal"]=> string(1) "0"
+["no_discount"]=> string(1) "0" ["qty_canceled"]=> string(6) "0.0000"
+["qty_invoiced"]=> string(6) "0.0000" ["qty_ordered"]=> string(6)
+"1.0000" ["qty_refunded"]=> string(6) "0.0000" ["qty_shipped"]=>
+string(6) "0.0000" ["price"]=> string(6) "8.6000" ["base_price"]=>
+string(6) "8.6000" ["original_price"]=> string(6) "8.6000"
+["base_original_price"]=> string(6) "8.6000" ["tax_percent"]=> string(6)
+"6.0000" ["tax_amount"]=> string(6) "0.5200" ["base_tax_amount"]=>
+string(6) "0.5200" ["tax_invoiced"]=> string(6) "0.0000"
+["base_tax_invoiced"]=> string(6) "0.0000" ["discount_percent"]=>
+string(6) "0.0000" ["discount_amount"]=> string(6) "0.0000"
+["base_discount_amount"]=> string(6) "0.0000" ["discount_invoiced"]=>
+string(6) "0.0000" ["base_discount_invoiced"]=> string(6) "0.0000"
+["amount_refunded"]=> string(6) "0.0000" ["base_amount_refunded"]=>
+string(6) "0.0000" ["row_total"]=> string(6) "8.6000"
+["base_row_total"]=> string(6) "8.6000" ["row_invoiced"]=> string(6)
+"0.0000" ["base_row_invoiced"]=> string(6) "0.0000" ["row_weight"]=>
+string(6) "0.5000" ["gift_message_available"]=> string(1) "0"
+["weee_tax_applied"]=> string(6) "a:0:{}" ["weee_tax_applied_amount"]=>
+string(6) "0.0000" ["weee_tax_applied_row_amount"]=> string(6) "0.0000"
+["base_weee_tax_applied_amount"]=> string(6) "0.0000"
+["base_weee_tax_applied_row_amount"]=> string(6) "0.0000"
+["weee_tax_disposition"]=> string(6) "0.0000"
+["weee_tax_row_disposition"]=> string(6) "0.0000"
+["base_weee_tax_disposition"]=> string(6) "0.0000"
+["base_weee_tax_row_disposition"]=> string(6) "0.0000" } [2]=>
+object(stdClass)#11 (49) { ["item_id"]=> string(2) "18" ["order_id"]=>
+string(1) "6" ["quote_item_id"]=> string(2) "21" ["created_at"]=>
+string(19) "2016-07-07 19:35:21" ["updated_at"]=> string(19) "2016-07-07
+19:35:21" ["product_id"]=> string(2) "20" ["product_type"]=> string(6)
+"simple" ["product_options"]=> string(351)
+"a:1:{s:15:"info_buyRequest";a:7:{s:4:"uenc";s:116:"aHR0cDovL3RveW9kYWdvc2VpLXN0b3JlLnFtaWdyb3VwaW5jLmNvbS9hcHBhcmVsL2NhcHMvYnJ1c2hlZC10d2lsbC1jYXAuaHRtbD9fX19TSUQ9VQ,,";s:7:"product";s:2:"16";s:8:"form_key";s:16:"rrvXScswncM5PMsQ";s:15:"related_product";s:0:"";s:15:"super_attribute";a:1:{i:146;s:2:"32";}s:3:"qty";s:6:"1.0000";s:6:"isAjax";s:1:"1";}}"
+["weight"]=> string(6) "0.5000" ["is_virtual"]=> string(1) "0" ["sku"]=>
+string(10) "TG82-Royal" ["name"]=> string(23) "Brushed Twill Cap-Royal"
+["free_shipping"]=> string(1) "0" ["is_qty_decimal"]=> string(1) "0"
+["no_discount"]=> string(1) "0" ["qty_canceled"]=> string(6) "0.0000"
+["qty_invoiced"]=> string(6) "0.0000" ["qty_ordered"]=> string(6)
+"1.0000" ["qty_refunded"]=> string(6) "0.0000" ["qty_shipped"]=>
+string(6) "0.0000" ["price"]=> string(6) "0.0000" ["base_price"]=>
+string(6) "0.0000" ["original_price"]=> string(6) "0.0000"
+["tax_percent"]=> string(6) "0.0000" ["tax_amount"]=> string(6) "0.0000"
+["base_tax_amount"]=> string(6) "0.0000" ["tax_invoiced"]=> string(6)
+"0.0000" ["base_tax_invoiced"]=> string(6) "0.0000"
+["discount_percent"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["discount_invoiced"]=> string(6) "0.0000" ["base_discount_invoiced"]=>
+string(6) "0.0000" ["amount_refunded"]=> string(6) "0.0000"
+["base_amount_refunded"]=> string(6) "0.0000" ["row_total"]=> string(6)
+"0.0000" ["base_row_total"]=> string(6) "0.0000" ["row_invoiced"]=>
+string(6) "0.0000" ["base_row_invoiced"]=> string(6) "0.0000"
+["row_weight"]=> string(6) "0.0000" ["gift_message_available"]=>
+string(1) "0" ["weee_tax_applied"]=> string(6) "a:0:{}"
+["weee_tax_applied_amount"]=> string(6) "0.0000"
+["weee_tax_applied_row_amount"]=> string(6) "0.0000"
+["base_weee_tax_applied_amount"]=> string(6) "0.0000"
+["weee_tax_disposition"]=> string(6) "0.0000"
+["weee_tax_row_disposition"]=> string(6) "0.0000"
+["base_weee_tax_disposition"]=> string(6) "0.0000"
+["base_weee_tax_row_disposition"]=> string(6) "0.0000" } } }
+["payment"]=> object(stdClass)#12 (12) { ["parent_id"]=> string(1) "6"
+["amount_ordered"]=> string(7) "40.9200" ["shipping_amount"]=> string(6)
+"0.0000" ["base_amount_ordered"]=> string(7) "40.9200"
+["base_shipping_amount"]=> string(6) "0.0000" ["method"]=> string(13)
+"purchaseorder" ["po_number"]=> string(5) "test6" ["cc_exp_month"]=>
+string(1) "0" ["cc_exp_year"]=> string(1) "0" ["cc_ss_start_month"]=>
+string(1) "0" ["cc_ss_start_year"]=> string(1) "0" ["payment_id"]=>
+string(1) "6" } ["status_history"]=> object(stdClass)#13 (1) {
+["complexObjectArray"]=> object(stdClass)#14 (4) { ["parent_id"]=>
+string(1) "6" ["created_at"]=> string(19) "2016-07-07 19:35:21"
+["is_customer_notified"]=> string(1) "1" ["status"]=> string(7)
+"pending" } } }
+
+
+^^^ Sales Order Info ^^^
+
+object(stdClass)#16 (0) { }
+
+
+^^^ Catalog Inventory Stock Item List ^^^
+
+object(stdClass)#18 (1) { ["complexObjectArray"]=> array(17) { [0]=>
+object(stdClass)#19 (5) { ["product_id"]=> int(22) ["type"]=> string(12)
+"configurable" ["set"]=> int(9) ["sku"]=> string(6) "TG749 "
+["position"]=> int(1) } [1]=> object(stdClass)#20 (5) { ["product_id"]=>
+int(279) ["type"]=> string(12) "configurable" ["set"]=> int(9) ["sku"]=>
+string(6) "TGL510" ["position"]=> int(1) } [2]=> object(stdClass)#21 (5)
+{ ["product_id"]=> int(241) ["type"]=> string(12) "configurable"
+["set"]=> int(9) ["sku"]=> string(6) "TGL420" ["position"]=> int(1) }
+[3]=> object(stdClass)#22 (5) { ["product_id"]=> int(219) ["type"]=>
+string(12) "configurable" ["set"]=> int(9) ["sku"]=> string(5) "TG420"
+["position"]=> int(1) } [4]=> object(stdClass)#23 (5) { ["product_id"]=>
+int(204) ["type"]=> string(12) "configurable" ["set"]=> int(9) ["sku"]=>
+string(5) "TG510" ["position"]=> int(1) } [5]=> object(stdClass)#24 (5)
+{ ["product_id"]=> int(92) ["type"]=> string(12) "configurable"
+["set"]=> int(9) ["sku"]=> string(9) "TGNike119" ["position"]=> int(1) }
+[6]=> object(stdClass)#25 (5) { ["product_id"]=> int(84) ["type"]=>
+string(12) "configurable" ["set"]=> int(9) ["sku"]=> string(7) "TGOG101"
+["position"]=> int(1) } [7]=> object(stdClass)#26 (5) { ["product_id"]=>
+int(80) ["type"]=> string(12) "configurable" ["set"]=> int(9) ["sku"]=>
+string(10) "TGLNike885" ["position"]=> int(1) } [8]=>
+object(stdClass)#27 (5) { ["product_id"]=> int(73) ["type"]=> string(12)
+"configurable" ["set"]=> int(9) ["sku"]=> string(7) "TGLI101"
+["position"]=> int(1) } [9]=> object(stdClass)#28 (5) { ["product_id"]=>
+int(67) ["type"]=> string(12) "configurable" ["set"]=> int(9) ["sku"]=>
+string(6) "TG540 " ["position"]=> int(1) } [10]=> object(stdClass)#29
+(5) { ["product_id"]=> int(61) ["type"]=> string(12) "configurable"
+["set"]=> int(9) ["sku"]=> string(7) "TGL540 " ["position"]=> int(1) }
+[11]=> object(stdClass)#30 (5) { ["product_id"]=> int(54) ["type"]=>
+string(12) "configurable" ["set"]=> int(9) ["sku"]=> string(6) "TG612 "
+["position"]=> int(1) } [12]=> object(stdClass)#31 (5) {
+["product_id"]=> int(48) ["type"]=> string(12) "configurable" ["set"]=>
+int(9) ["sku"]=> string(6) "TGL613" ["position"]=> int(1) } [13]=>
+object(stdClass)#32 (5) { ["product_id"]=> int(41) ["type"]=> string(12)
+"configurable" ["set"]=> int(9) ["sku"]=> string(5) "TG69 "
+["position"]=> int(1) } [14]=> object(stdClass)#33 (5) {
+["product_id"]=> int(34) ["type"]=> string(12) "configurable" ["set"]=>
+int(9) ["sku"]=> string(5) "TGL69" ["position"]=> int(1) } [15]=>
+object(stdClass)#34 (5) { ["product_id"]=> int(28) ["type"]=> string(12)
+"configurable" ["set"]=> int(9) ["sku"]=> string(7) "TGL064 "
+["position"]=> int(1) } [16]=> object(stdClass)#35 (5) {
+["product_id"]=> int(285) ["type"]=> string(12) "configurable" ["set"]=>
+int(9) ["sku"]=> string(5) "TG475" ["position"]=> int(1) } } }
+
+
+^^^ Catalog Category Assigned Products ^^^
+
+object(stdClass)#37 (1) { ["complexObjectArray"]=> array(2) { [0]=>
+object(stdClass)#38 (11) { ["customer_id"]=> int(1) ["created_at"]=>
+string(19) "2016-07-06 15:16:30" ["updated_at"]=> string(19) "2016-12-05
+21:43:58" ["store_id"]=> int(0) ["website_id"]=> int(1) ["created_in"]=>
+string(5) "Admin" ["email"]=> string(27) "matt@designsolutionpros.com"
+["firstname"]=> string(4) "Matt" ["lastname"]=> string(8) "Rohnkohl"
+["group_id"]=> int(4) ["password_hash"]=> string(65)
+"7cb1e868899cae84926d9ce44861fe35:KDTX7H4PbJRgOp9picNvIrYpffLMCSMs" }
+[1]=> object(stdClass)#39 (11) { ["customer_id"]=> int(4)
+["created_at"]=> string(19) "2016-12-05 20:49:07" ["updated_at"]=>
+string(19) "2016-12-05 20:49:07" ["store_id"]=> int(1) ["website_id"]=>
+int(1) ["created_in"]=> string(18) "Default Store View" ["email"]=>
+string(16) "mail@example.org" ["firstname"]=> string(5) "Dough"
+["lastname"]=> string(5) "Deeks" ["group_id"]=> int(1)
+["password_hash"]=> string(65)
+"1fb22bab97a58453b4a4ae2845c98674:FfuJiBblASRF3bSvnaUBvTyKSX0ZIDHq" } } }
+
+
+^^^ Customer List by firstname ^^^
+
+'customer_id' => '',
+'created_at' => '',
+'updated_at' => '',
+'store_id' => '',
+'website_id' => '',
+'created_in' => '',
+'email' => '',
+'firstname' => '',
+'lastname' => '',
+'group_id' => '',
+'password_hash' => ''
+
+------------line break print r-------------
+
+stdClass Object ( [result] => stdClass Object ( [complexObjectArray] =>
+Array ( [0] => stdClass Object ( [customer_id] => 1 [created_at] =>
+2016-07-06 15:16:30 [updated_at] => 2016-12-05 21:43:58 [store_id] => 0
+[website_id] => 1 [created_in] => Admin [email] =>
+matt@designsolutionpros.com [firstname] => Matt [lastname] => Rohnkohl
+[group_id] => 4 [password_hash] =>
+7cb1e868899cae84926d9ce44861fe35:KDTX7H4PbJRgOp9picNvIrYpffLMCSMs ) [1]
+=> stdClass Object ( [customer_id] => 4 [created_at] => 2016-12-05
+20:49:07 [updated_at] => 2016-12-05 20:49:07 [store_id] => 1
+[website_id] => 1 [created_in] => Default Store View [email] =>
+mail@example.org [firstname] => Dough [lastname] => Deeks [group_id] =>
+1 [password_hash] =>
+1fb22bab97a58453b4a4ae2845c98674:FfuJiBblASRF3bSvnaUBvTyKSX0ZIDHq ) ) ) )
+
+------------line break var dump-------------
+
+object(stdClass)#48 (1) { ["result"]=> object(stdClass)#49 (1) {
+["complexObjectArray"]=> array(2) { [0]=> object(stdClass)#50 (11) {
+["customer_id"]=> int(1) ["created_at"]=> string(19) "2016-07-06
+15:16:30" ["updated_at"]=> string(19) "2016-12-05 21:43:58"
+["store_id"]=> int(0) ["website_id"]=> int(1) ["created_in"]=> string(5)
+"Admin" ["email"]=> string(27) "matt@designsolutionpros.com"
+["firstname"]=> string(4) "Matt" ["lastname"]=> string(8) "Rohnkohl"
+["group_id"]=> int(4) ["password_hash"]=> string(65)
+"7cb1e868899cae84926d9ce44861fe35:KDTX7H4PbJRgOp9picNvIrYpffLMCSMs" }
+[1]=> object(stdClass)#51 (11) { ["customer_id"]=> int(4)
+["created_at"]=> string(19) "2016-12-05 20:49:07" ["updated_at"]=>
+string(19) "2016-12-05 20:49:07" ["store_id"]=> int(1) ["website_id"]=>
+int(1) ["created_in"]=> string(18) "Default Store View" ["email"]=>
+string(16) "mail@example.org" ["firstname"]=> string(5) "Dough"
+["lastname"]=> string(5) "Deeks" ["group_id"]=> int(1)
+["password_hash"]=> string(65)
+"1fb22bab97a58453b4a4ae2845c98674:FfuJiBblASRF3bSvnaUBvTyKSX0ZIDHq" } } } }
+
+
+^^^ Customer List full ^^^
+
+'customer_id' => '4',
+'created_at' => '2016-12-05T15:49:07-05:00',
+'updated_at' => '2016-12-05 20:49:07',
+'store_id' => '1',
+'website_id' => '1',
+'created_in' => 'Default Store View',
+'email' => 'mail@example.org',
+'firstname' => 'Dough',
+'lastname' => 'Deeks',
+'group_id' => '1',
+'password_hash' =>
+'1fb22bab97a58453b4a4ae2845c98674:FfuJiBblASRF3bSvnaUBvTyKSX0ZIDHq'
+
+
+^^^ Customer by ID - number 4 ^^^
+
+object(stdClass)#55 (1) { ["complexObjectArray"]=> object(stdClass)#56
+(68) { ["increment_id"]=> string(9) "100000007" ["store_id"]=> string(1)
+"1" ["created_at"]=> string(19) "2016-12-05 21:43:58" ["updated_at"]=>
+string(19) "2016-12-05 21:43:59" ["customer_id"]=> string(1) "1"
+["tax_amount"]=> string(6) "6.9400" ["shipping_amount"]=> string(6)
+"0.0000" ["discount_amount"]=> string(6) "0.0000" ["subtotal"]=>
+string(8) "115.6000" ["grand_total"]=> string(8) "122.5400"
+["total_qty_ordered"]=> string(6) "6.0000" ["base_tax_amount"]=>
+string(6) "6.9400" ["base_shipping_amount"]=> string(6) "0.0000"
+["base_discount_amount"]=> string(6) "0.0000" ["base_subtotal"]=>
+string(8) "115.6000" ["base_grand_total"]=> string(8) "122.5400"
+["billing_address_id"]=> string(2) "13" ["billing_firstname"]=>
+string(4) "Matt" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(2) "14" ["shipping_firstname"]=>
+string(4) "Matt" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(13) "Matt Rohnkohl" ["shipping_name"]=>
+string(13) "Matt Rohnkohl" ["store_to_base_rate"]=> string(6) "1.0000"
+["store_to_order_rate"]=> string(6) "1.0000" ["base_to_global_rate"]=>
+string(6) "1.0000" ["base_to_order_rate"]=> string(6) "1.0000"
+["weight"]=> string(6) "4.3000" ["store_name"]=> string(50) "Main
+Website Main Website Store Default Store View" ["remote_ip"]=>
+string(13) "50.76.183.241" ["status"]=> string(7) "pending" ["state"]=>
+string(3) "new" ["global_currency_code"]=> string(3) "USD"
+["base_currency_code"]=> string(3) "USD" ["store_currency_code"]=>
+string(3) "USD" ["order_currency_code"]=> string(3) "USD"
+["shipping_method"]=> string(25) "freeshipping_freeshipping"
+["shipping_description"]=> string(41) "Free Shipping - For TGNA and
+Coupon Codes" ["customer_email"]=> string(27)
+"matt@designsolutionpros.com" ["customer_firstname"]=> string(4) "Matt"
+["customer_lastname"]=> string(8) "Rohnkohl" ["quote_id"]=> string(2)
+"12" ["is_virtual"]=> string(1) "0" ["customer_group_id"]=> string(1)
+"4" ["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"7" ["protect_code"]=> string(6) "9508a6" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(8) "122.5400"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(8) "122.5400" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } }
+
+
+^^^ Sales Order List by creation date ^^^
+
+
+^^^ Customer by ID - number 4 ^^^
+
+object(stdClass)#58 (1) { ["complexObjectArray"]=> array(8) { [0]=>
+object(stdClass)#59 (68) { ["increment_id"]=> string(9) "100000001"
+["store_id"]=> string(1) "1" ["created_at"]=> string(19) "2016-07-07
+18:30:20" ["updated_at"]=> string(19) "2016-07-07 18:30:20"
+["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6) "2.3200"
+["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=> string(6)
+"0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=> string(7)
+"40.9200" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"40.9200" ["billing_address_id"]=> string(1) "1" ["billing_firstname"]=>
+string(4) "Matt" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(1) "2" ["shipping_firstname"]=>
+string(4) "Matt" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(13) "Matt Rohnkohl" ["shipping_name"]=>
+string(13) "Matt Rohnkohl" ["store_to_base_rate"]=> string(6) "1.0000"
+["store_to_order_rate"]=> string(6) "1.0000" ["base_to_global_rate"]=>
+string(6) "1.0000" ["base_to_order_rate"]=> string(6) "1.0000"
+["weight"]=> string(6) "1.5000" ["store_name"]=> string(50) "Main
+Website Main Website Store Default Store View" ["remote_ip"]=>
+string(12) "76.9.127.130" ["status"]=> string(7) "pending" ["state"]=>
+string(3) "new" ["global_currency_code"]=> string(3) "USD"
+["base_currency_code"]=> string(3) "USD" ["store_currency_code"]=>
+string(3) "USD" ["order_currency_code"]=> string(3) "USD"
+["shipping_method"]=> string(25) "freeshipping_freeshipping"
+["shipping_description"]=> string(27) "Free Delivery for TGNA Only"
+["customer_email"]=> string(21) "mrohnkohl@qmimail.com"
+["customer_firstname"]=> string(4) "Matt" ["customer_lastname"]=>
+string(8) "Rohnkohl" ["quote_id"]=> string(1) "2" ["is_virtual"]=>
+string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"1" ["protect_code"]=> string(6) "2b45ba" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(7) "40.9200"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(7) "40.9200" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [1]=> object(stdClass)#60 (68) { ["increment_id"]=>
+string(9) "100000002" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-07-07 18:49:23" ["updated_at"]=> string(19) "2016-07-07
+18:49:23" ["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6)
+"2.3200" ["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=>
+string(7) "40.9200" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"40.9200" ["billing_address_id"]=> string(1) "3" ["billing_firstname"]=>
+string(4) "Matt" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(1) "4" ["shipping_firstname"]=>
+string(4) "Matt" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(13) "Matt Rohnkohl" ["shipping_name"]=>
+string(13) "Matt Rohnkohl" ["store_to_base_rate"]=> string(6) "1.0000"
+["store_to_order_rate"]=> string(6) "1.0000" ["base_to_global_rate"]=>
+string(6) "1.0000" ["base_to_order_rate"]=> string(6) "1.0000"
+["weight"]=> string(6) "1.5000" ["store_name"]=> string(50) "Main
+Website Main Website Store Default Store View" ["remote_ip"]=>
+string(12) "76.9.127.130" ["status"]=> string(7) "pending" ["state"]=>
+string(3) "new" ["global_currency_code"]=> string(3) "USD"
+["base_currency_code"]=> string(3) "USD" ["store_currency_code"]=>
+string(3) "USD" ["order_currency_code"]=> string(3) "USD"
+["shipping_method"]=> string(25) "freeshipping_freeshipping"
+["shipping_description"]=> string(27) "Free Delivery for TGNA Only"
+["customer_email"]=> string(21) "mrohnkohl@qmimail.com"
+["customer_firstname"]=> string(4) "Matt" ["customer_lastname"]=>
+string(8) "Rohnkohl" ["quote_id"]=> string(1) "4" ["is_virtual"]=>
+string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"2" ["protect_code"]=> string(6) "c936a5" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(7) "40.9200"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(7) "40.9200" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [2]=> object(stdClass)#61 (68) { ["increment_id"]=>
+string(9) "100000003" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-07-07 18:53:14" ["updated_at"]=> string(19) "2016-07-07
+18:53:14" ["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6)
+"2.3200" ["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=>
+string(7) "40.9200" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"40.9200" ["billing_address_id"]=> string(1) "5" ["billing_firstname"]=>
+string(4) "Matt" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(1) "6" ["shipping_firstname"]=>
+string(4) "Matt" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(13) "Matt Rohnkohl" ["shipping_name"]=>
+string(13) "Matt Rohnkohl" ["store_to_base_rate"]=> string(6) "1.0000"
+["store_to_order_rate"]=> string(6) "1.0000" ["base_to_global_rate"]=>
+string(6) "1.0000" ["base_to_order_rate"]=> string(6) "1.0000"
+["weight"]=> string(6) "1.5000" ["store_name"]=> string(50) "Main
+Website Main Website Store Default Store View" ["remote_ip"]=>
+string(12) "76.9.127.130" ["status"]=> string(7) "pending" ["state"]=>
+string(3) "new" ["global_currency_code"]=> string(3) "USD"
+["base_currency_code"]=> string(3) "USD" ["store_currency_code"]=>
+string(3) "USD" ["order_currency_code"]=> string(3) "USD"
+["shipping_method"]=> string(25) "freeshipping_freeshipping"
+["shipping_description"]=> string(27) "Free Delivery for TGNA Only"
+["customer_email"]=> string(21) "mrohnkohl@qmimail.com"
+["customer_firstname"]=> string(4) "Matt" ["customer_lastname"]=>
+string(8) "Rohnkohl" ["quote_id"]=> string(1) "5" ["is_virtual"]=>
+string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"3" ["protect_code"]=> string(6) "512556" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(7) "40.9200"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(7) "40.9200" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [3]=> object(stdClass)#62 (68) { ["increment_id"]=>
+string(9) "100000004" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-07-07 19:15:47" ["updated_at"]=> string(19) "2016-07-07
+19:15:47" ["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6)
+"2.3200" ["shipping_amount"]=> string(6) "5.9400" ["discount_amount"]=>
+string(6) "0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=>
+string(7) "46.8600" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "5.9400" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"46.8600" ["billing_address_id"]=> string(1) "7" ["billing_firstname"]=>
+string(4) "Matt" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(1) "8" ["shipping_firstname"]=>
+string(4) "Matt" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(13) "Matt Rohnkohl" ["shipping_name"]=>
+string(13) "Matt Rohnkohl" ["store_to_base_rate"]=> string(6) "1.0000"
+["store_to_order_rate"]=> string(6) "1.0000" ["base_to_global_rate"]=>
+string(6) "1.0000" ["base_to_order_rate"]=> string(6) "1.0000"
+["weight"]=> string(6) "1.5000" ["store_name"]=> string(50) "Main
+Website Main Website Store Default Store View" ["remote_ip"]=>
+string(12) "76.9.127.130" ["status"]=> string(7) "pending" ["state"]=>
+string(3) "new" ["global_currency_code"]=> string(3) "USD"
+["base_currency_code"]=> string(3) "USD" ["store_currency_code"]=>
+string(3) "USD" ["order_currency_code"]=> string(3) "USD"
+["shipping_method"]=> string(6) "usps_7" ["shipping_description"]=>
+string(50) "United States Postal Service - Library Mail Parcel"
+["customer_email"]=> string(21) "mrohnkohl@qmimail.com"
+["customer_firstname"]=> string(4) "Matt" ["customer_lastname"]=>
+string(8) "Rohnkohl" ["quote_id"]=> string(1) "6" ["is_virtual"]=>
+string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"4" ["protect_code"]=> string(6) "83c15f" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(7) "40.9200"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(7) "40.9200" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "5.9400" ["base_shipping_incl_tax"]=>
+string(6) "5.9400" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [4]=> object(stdClass)#63 (68) { ["increment_id"]=>
+string(9) "100000005" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-07-07 19:24:00" ["updated_at"]=> string(19) "2016-07-07
+19:24:00" ["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6)
+"2.3200" ["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=>
+string(7) "40.9200" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"40.9200" ["billing_address_id"]=> string(1) "9" ["billing_firstname"]=>
+string(4) "Matt" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(2) "10" ["shipping_firstname"]=>
+string(4) "Matt" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(13) "Matt Rohnkohl" ["shipping_name"]=>
+string(13) "Matt Rohnkohl" ["store_to_base_rate"]=> string(6) "1.0000"
+["store_to_order_rate"]=> string(6) "1.0000" ["base_to_global_rate"]=>
+string(6) "1.0000" ["base_to_order_rate"]=> string(6) "1.0000"
+["weight"]=> string(6) "1.5000" ["store_name"]=> string(50) "Main
+Website Main Website Store Default Store View" ["remote_ip"]=>
+string(12) "76.9.127.130" ["status"]=> string(7) "pending" ["state"]=>
+string(3) "new" ["global_currency_code"]=> string(3) "USD"
+["base_currency_code"]=> string(3) "USD" ["store_currency_code"]=>
+string(3) "USD" ["order_currency_code"]=> string(3) "USD"
+["shipping_method"]=> string(25) "freeshipping_freeshipping"
+["shipping_description"]=> string(27) "Free Delivery for TGNA Only"
+["customer_email"]=> string(21) "mrohnkohl@qmimail.com"
+["customer_firstname"]=> string(4) "Matt" ["customer_lastname"]=>
+string(8) "Rohnkohl" ["quote_id"]=> string(1) "7" ["is_virtual"]=>
+string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"5" ["protect_code"]=> string(6) "2698b6" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(7) "40.9200"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(7) "40.9200" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [5]=> object(stdClass)#64 (68) { ["increment_id"]=>
+string(9) "100000006" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-07-07 19:35:21" ["updated_at"]=> string(19) "2016-07-07
+19:35:21" ["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6)
+"2.3200" ["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["subtotal"]=> string(7) "38.6000" ["grand_total"]=>
+string(7) "40.9200" ["total_qty_ordered"]=> string(6) "2.0000"
+["base_tax_amount"]=> string(6) "2.3200" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(7) "38.6000" ["base_grand_total"]=> string(7)
+"40.9200" ["billing_address_id"]=> string(2) "11"
+["billing_firstname"]=> string(4) "Matt" ["billing_lastname"]=>
+string(8) "Rohnkohl" ["shipping_address_id"]=> string(2) "12"
+["shipping_firstname"]=> string(4) "Matt" ["shipping_lastname"]=>
+string(8) "Rohnkohl" ["billing_name"]=> string(13) "Matt Rohnkohl"
+["shipping_name"]=> string(13) "Matt Rohnkohl" ["store_to_base_rate"]=>
+string(6) "1.0000" ["store_to_order_rate"]=> string(6) "1.0000"
+["base_to_global_rate"]=> string(6) "1.0000" ["base_to_order_rate"]=>
+string(6) "1.0000" ["weight"]=> string(6) "1.5000" ["store_name"]=>
+string(50) "Main Website Main Website Store Default Store View"
+["remote_ip"]=> string(12) "76.9.127.130" ["status"]=> string(7)
+"pending" ["state"]=> string(3) "new" ["global_currency_code"]=>
+string(3) "USD" ["base_currency_code"]=> string(3) "USD"
+["store_currency_code"]=> string(3) "USD" ["order_currency_code"]=>
+string(3) "USD" ["shipping_method"]=> string(25)
+"freeshipping_freeshipping" ["shipping_description"]=> string(27) "Free
+Delivery for TGNA Only" ["customer_email"]=> string(21)
+"mrohnkohl@qmimail.com" ["customer_firstname"]=> string(4) "Matt"
+["customer_lastname"]=> string(8) "Rohnkohl" ["quote_id"]=> string(1)
+"8" ["is_virtual"]=> string(1) "0" ["customer_group_id"]=> string(1) "4"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"6" ["protect_code"]=> string(6) "5b4bb8" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(7) "40.9200"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(7) "40.9200" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [6]=> object(stdClass)#65 (68) { ["increment_id"]=>
+string(9) "100000007" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-12-05 21:43:58" ["updated_at"]=> string(19) "2016-12-05
+21:43:59" ["customer_id"]=> string(1) "1" ["tax_amount"]=> string(6)
+"6.9400" ["shipping_amount"]=> string(6) "0.0000" ["discount_amount"]=>
+string(6) "0.0000" ["subtotal"]=> string(8) "115.6000" ["grand_total"]=>
+string(8) "122.5400" ["total_qty_ordered"]=> string(6) "6.0000"
+["base_tax_amount"]=> string(6) "6.9400" ["base_shipping_amount"]=>
+string(6) "0.0000" ["base_discount_amount"]=> string(6) "0.0000"
+["base_subtotal"]=> string(8) "115.6000" ["base_grand_total"]=>
+string(8) "122.5400" ["billing_address_id"]=> string(2) "13"
+["billing_firstname"]=> string(4) "Matt" ["billing_lastname"]=>
+string(8) "Rohnkohl" ["shipping_address_id"]=> string(2) "14"
+["shipping_firstname"]=> string(4) "Matt" ["shipping_lastname"]=>
+string(8) "Rohnkohl" ["billing_name"]=> string(13) "Matt Rohnkohl"
+["shipping_name"]=> string(13) "Matt Rohnkohl" ["store_to_base_rate"]=>
+string(6) "1.0000" ["store_to_order_rate"]=> string(6) "1.0000"
+["base_to_global_rate"]=> string(6) "1.0000" ["base_to_order_rate"]=>
+string(6) "1.0000" ["weight"]=> string(6) "4.3000" ["store_name"]=>
+string(50) "Main Website Main Website Store Default Store View"
+["remote_ip"]=> string(13) "50.76.183.241" ["status"]=> string(7)
+"pending" ["state"]=> string(3) "new" ["global_currency_code"]=>
+string(3) "USD" ["base_currency_code"]=> string(3) "USD"
+["store_currency_code"]=> string(3) "USD" ["order_currency_code"]=>
+string(3) "USD" ["shipping_method"]=> string(25)
+"freeshipping_freeshipping" ["shipping_description"]=> string(41) "Free
+Shipping - For TGNA and Coupon Codes" ["customer_email"]=> string(27)
+"matt@designsolutionpros.com" ["customer_firstname"]=> string(4) "Matt"
+["customer_lastname"]=> string(8) "Rohnkohl" ["quote_id"]=> string(2)
+"12" ["is_virtual"]=> string(1) "0" ["customer_group_id"]=> string(1)
+"4" ["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "0" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"7" ["protect_code"]=> string(6) "9508a6" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(8) "122.5400"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(8) "122.5400" ["total_item_count"]=>
+string(1) "2" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "0.0000" ["base_shipping_incl_tax"]=>
+string(6) "0.0000" ["firstname"]=> string(4) "Matt" ["lastname"]=>
+string(8) "Rohnkohl" ["telephone"]=> string(8) "555-1212" ["postcode"]=>
+string(5) "48071" } [7]=> object(stdClass)#66 (67) { ["increment_id"]=>
+string(9) "100000008" ["store_id"]=> string(1) "1" ["created_at"]=>
+string(19) "2016-12-06 15:31:03" ["updated_at"]=> string(19) "2016-12-06
+15:31:03" ["tax_amount"]=> string(6) "0.0000" ["shipping_amount"]=>
+string(6) "9.0800" ["discount_amount"]=> string(6) "0.0000"
+["subtotal"]=> string(6) "8.6000" ["grand_total"]=> string(7) "17.6800"
+["total_qty_ordered"]=> string(6) "1.0000" ["base_tax_amount"]=>
+string(6) "0.0000" ["base_shipping_amount"]=> string(6) "9.0800"
+["base_discount_amount"]=> string(6) "0.0000" ["base_subtotal"]=>
+string(6) "8.6000" ["base_grand_total"]=> string(7) "17.6800"
+["billing_address_id"]=> string(2) "15" ["billing_firstname"]=>
+string(10) "Matt-Guest" ["billing_lastname"]=> string(8) "Rohnkohl"
+["shipping_address_id"]=> string(2) "16" ["shipping_firstname"]=>
+string(10) "Matt-Guest" ["shipping_lastname"]=> string(8) "Rohnkohl"
+["billing_name"]=> string(19) "Matt-Guest Rohnkohl" ["shipping_name"]=>
+string(19) "Matt-Guest Rohnkohl" ["store_to_base_rate"]=> string(6)
+"1.0000" ["store_to_order_rate"]=> string(6) "1.0000"
+["base_to_global_rate"]=> string(6) "1.0000" ["base_to_order_rate"]=>
+string(6) "1.0000" ["weight"]=> string(6) "0.5000" ["store_name"]=>
+string(50) "Main Website Main Website Store Default Store View"
+["remote_ip"]=> string(13) "50.76.183.241" ["status"]=> string(7)
+"pending" ["state"]=> string(3) "new" ["global_currency_code"]=>
+string(3) "USD" ["base_currency_code"]=> string(3) "USD"
+["store_currency_code"]=> string(3) "USD" ["order_currency_code"]=>
+string(3) "USD" ["shipping_method"]=> string(7) "ups_GND"
+["shipping_description"]=> string(30) "United Parcel Service - Ground"
+["customer_email"]=> string(27) "matt@designsolutionpros.com"
+["customer_firstname"]=> string(10) "Matt-Guest" ["customer_lastname"]=>
+string(8) "Rohnkohl" ["quote_id"]=> string(2) "18" ["is_virtual"]=>
+string(1) "0" ["customer_group_id"]=> string(1) "0"
+["customer_note_notify"]=> string(1) "1" ["customer_is_guest"]=>
+string(1) "1" ["email_sent"]=> string(1) "1" ["order_id"]=> string(1)
+"8" ["protect_code"]=> string(6) "768e55" ["base_shipping_tax_amount"]=>
+string(6) "0.0000" ["shipping_tax_amount"]=> string(6) "0.0000"
+["paypal_ipn_customer_notified"]=> string(1) "0"
+["base_shipping_discount_amount"]=> string(6) "0.0000"
+["base_subtotal_incl_tax"]=> string(6) "8.6000"
+["shipping_discount_amount"]=> string(6) "0.0000"
+["subtotal_incl_tax"]=> string(6) "8.6000" ["total_item_count"]=>
+string(1) "1" ["hidden_tax_amount"]=> string(6) "0.0000"
+["base_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["base_shipping_hidden_tax_amount"]=> string(6) "0.0000"
+["shipping_incl_tax"]=> string(6) "9.0800" ["base_shipping_incl_tax"]=>
+string(6) "9.0800" ["firstname"]=> string(10) "Matt-Guest"
+["lastname"]=> string(8) "Rohnkohl" ["telephone"]=> string(12)
+"123-456-7890" ["postcode"]=> string(5) "48080" } } }
+
+
+^^^ Sales Order List All ^^^
+
